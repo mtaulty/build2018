@@ -25,6 +25,8 @@ Breakout 75 Minutes
 
 [Azure IoT Edge](https://channel9.msdn.com/Events/Build/2018/BRK3802)
 
+**downloaded to here so far**
+
 [Azure Sphere](https://channel9.msdn.com/Events/Build/2018/BRK3801)
 
 [Quantum and Q#](https://channel9.msdn.com/Events/Build/2018/BRK3601)
@@ -89,5 +91,3 @@ Breakout 45 Minutes
 Pre-Record
 -------------
 [Project Rome in Microsoft Graph APIs](https://channel9.msdn.com/Events/Build/2018/THR5013)
-
-
